@@ -1,4 +1,4 @@
-# Portfolio landing Page
+# Portfolio Landing Page
 
 Portfolio landing page with Animation using HTML, CSS & JavaScript (GSAP)
 
